@@ -1,2 +1,2 @@
-# stablecointrust
-A Simple Stable Coin Protocol built on Bitcoin BSV, with The Bitcoin Computer
+# TokenSwap
+A DEX built on Bitcoin BSV, with The Bitcoin Computer
